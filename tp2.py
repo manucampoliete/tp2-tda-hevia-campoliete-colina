@@ -16,8 +16,8 @@ def main():
     maximo, solucion = pd(x_i, f)
     fin = time()
 
-    print(RED + BOLD + "Máximo: " + END + f"{maximo}")
     print(RED + BOLD + "Solución: " + END + f"{solucion}")
+    print(RED + BOLD + "Máximo: " + END + f"{maximo}")
     print(RED + BOLD + "Tiempo de ejecución: " + END + f"{(fin-inicio) * 1000} milisegundos")
 
     correcta = verificacion(x_i, f, solucion, maximo)

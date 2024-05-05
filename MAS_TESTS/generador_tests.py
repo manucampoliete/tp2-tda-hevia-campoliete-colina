@@ -27,7 +27,7 @@ def generador(n):
     archivo.close()
 
 def generar_archivos():
-    for i in range(100,7001,50):
+    for i in range(100,5001,50):
         generador(i)
 
 generar_archivos()

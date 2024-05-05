@@ -12,7 +12,7 @@ def generar_archivo_resultados():
         archivo_resultados.write(nombre_archivo + "\n")
         x_i, f = leer_archivo(nombre_archivo)
         maximo, solucion = pd(x_i, f)
-        # archivo_resultados.write("Estrategia: " + ", ".join(solucion) + "\n")
+        archivo_resultados.write("Estrategia: " + ", ".join(solucion) + "\n")
         archivo_resultados.write("Cantidad de tropas eliminadas: " + str(maximo) + "\n\n")
 
     archivo_resultados.close()

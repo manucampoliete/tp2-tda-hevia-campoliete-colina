@@ -1,5 +1,5 @@
 import sys
-sys.path.insert(1,'/home/andres/Documents/tp2-tda-hevia-campoliete-colina/')
+sys.path.append("../")
 from pd import *
 from lector_archivos import leer_archivo
 from time import time

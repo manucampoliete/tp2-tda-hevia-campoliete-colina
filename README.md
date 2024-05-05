@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este repositorio contiene el Trabajo Práctico 2 de la materia Teoría de Algoritmos - cátedra Buchwald/Genender - de la Facultad de Ingeniería de la UBA. Este trabajo fue realizado por los alumnos:
+Este repositorio contiene el Trabajo Práctico 2 de la materia Teoría de Algoritmos - Cátedra Buchwald/Genender - de la Facultad de Ingeniería de la UBA. Este trabajo fue realizado por los alumnos:
 
 - Tomás Hevia
 - Manuel Campoliete
@@ -10,7 +10,7 @@ Este repositorio contiene el Trabajo Práctico 2 de la materia Teoría de Algori
 
 ## Ejecución
 
-Para ejecutar el programa, parado en el directorio del respositorio clonado `tp2-tda-hevia-campoliete-colina` se debe ingresar en la terminal el comando `python3 tp2.py` seguido de la ruta relativa del archivo .txt a ejecutar, que debe cumplir con el mismo formato que el especificado por la cátedra.
+Para ejecutar el programa, estando en el directorio del repositorio clonado `tp2-tda-hevia-campoliete-colina` se debe ingresar en la terminal el comando `python3 tp2.py` seguido de la ruta relativa del archivo .txt a ejecutar, que debe cumplir con el mismo formato que el especificado por la cátedra.
 
 - Si se quiere correr los tests de la cátedra el comando a ejecutar sería `python3 tp2.py TESTS/test.txt`
 

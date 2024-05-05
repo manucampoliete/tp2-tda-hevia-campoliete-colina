@@ -24,7 +24,7 @@ def reconstruir_solucion(n, x_i, f, OPT, solucion):
 """ 
 ECUACIÓN DE RECURRENCIA:
 
-OPT[n] = max( ∀ j∈[1,n]: OPT[n-j] + min(x_n, f(j) )
+OPT[n] = max( ∀ j∈[1,n] : OPT[n-j] + min(x_n, f(j)) )
 """
 
 def pd(x_i, f):

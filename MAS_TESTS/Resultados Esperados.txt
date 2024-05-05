@@ -1,0 +1,297 @@
+100.txt
+Cantidad de tropas eliminadas: 4434
+
+150.txt
+Cantidad de tropas eliminadas: 5563
+
+200.txt
+Cantidad de tropas eliminadas: 5204
+
+250.txt
+Cantidad de tropas eliminadas: 4770
+
+300.txt
+Cantidad de tropas eliminadas: 9591
+
+350.txt
+Cantidad de tropas eliminadas: 5726
+
+400.txt
+Cantidad de tropas eliminadas: 6320
+
+450.txt
+Cantidad de tropas eliminadas: 6201
+
+500.txt
+Cantidad de tropas eliminadas: 7996
+
+550.txt
+Cantidad de tropas eliminadas: 7551
+
+600.txt
+Cantidad de tropas eliminadas: 6743
+
+650.txt
+Cantidad de tropas eliminadas: 7013
+
+700.txt
+Cantidad de tropas eliminadas: 9796
+
+750.txt
+Cantidad de tropas eliminadas: 8999
+
+800.txt
+Cantidad de tropas eliminadas: 6192
+
+850.txt
+Cantidad de tropas eliminadas: 5946
+
+900.txt
+Cantidad de tropas eliminadas: 6126
+
+950.txt
+Cantidad de tropas eliminadas: 9500
+
+1000.txt
+Cantidad de tropas eliminadas: 6741
+
+1050.txt
+Cantidad de tropas eliminadas: 9450
+
+1100.txt
+Cantidad de tropas eliminadas: 6017
+
+1150.txt
+Cantidad de tropas eliminadas: 8050
+
+1200.txt
+Cantidad de tropas eliminadas: 6399
+
+1250.txt
+Cantidad de tropas eliminadas: 6303
+
+1300.txt
+Cantidad de tropas eliminadas: 5870
+
+1350.txt
+Cantidad de tropas eliminadas: 7286
+
+1400.txt
+Cantidad de tropas eliminadas: 6458
+
+1450.txt
+Cantidad de tropas eliminadas: 5815
+
+1500.txt
+Cantidad de tropas eliminadas: 8999
+
+1550.txt
+Cantidad de tropas eliminadas: 7057
+
+1600.txt
+Cantidad de tropas eliminadas: 7251
+
+1650.txt
+Cantidad de tropas eliminadas: 9900
+
+1700.txt
+Cantidad de tropas eliminadas: 8074
+
+1750.txt
+Cantidad de tropas eliminadas: 6224
+
+1800.txt
+Cantidad de tropas eliminadas: 6423
+
+1850.txt
+Cantidad de tropas eliminadas: 7400
+
+1900.txt
+Cantidad de tropas eliminadas: 7283
+
+1950.txt
+Cantidad de tropas eliminadas: 7190
+
+2000.txt
+Cantidad de tropas eliminadas: 7338
+
+2050.txt
+Cantidad de tropas eliminadas: 9225
+
+2100.txt
+Cantidad de tropas eliminadas: 7350
+
+2150.txt
+Cantidad de tropas eliminadas: 8600
+
+2200.txt
+Cantidad de tropas eliminadas: 9349
+
+2250.txt
+Cantidad de tropas eliminadas: 6994
+
+2300.txt
+Cantidad de tropas eliminadas: 8623
+
+2350.txt
+Cantidad de tropas eliminadas: 9400
+
+2400.txt
+Cantidad de tropas eliminadas: 7589
+
+2450.txt
+Cantidad de tropas eliminadas: 7686
+
+2500.txt
+Cantidad de tropas eliminadas: 7916
+
+2550.txt
+Cantidad de tropas eliminadas: 7650
+
+2600.txt
+Cantidad de tropas eliminadas: 7277
+
+2650.txt
+Cantidad de tropas eliminadas: 9275
+
+2700.txt
+Cantidad de tropas eliminadas: 6956
+
+2750.txt
+Cantidad de tropas eliminadas: 8250
+
+2800.txt
+Cantidad de tropas eliminadas: 7404
+
+2850.txt
+Cantidad de tropas eliminadas: 8550
+
+2900.txt
+Cantidad de tropas eliminadas: 9114
+
+2950.txt
+Cantidad de tropas eliminadas: 8284
+
+3000.txt
+Cantidad de tropas eliminadas: 7572
+
+3050.txt
+Cantidad de tropas eliminadas: 10166
+
+3100.txt
+Cantidad de tropas eliminadas: 8782
+
+3150.txt
+Cantidad de tropas eliminadas: 10498
+
+3200.txt
+Cantidad de tropas eliminadas: 11733
+
+3250.txt
+Cantidad de tropas eliminadas: 9750
+
+3300.txt
+Cantidad de tropas eliminadas: 11550
+
+3350.txt
+Cantidad de tropas eliminadas: 7355
+
+3400.txt
+Cantidad de tropas eliminadas: 6845
+
+3450.txt
+Cantidad de tropas eliminadas: 7344
+
+3500.txt
+Cantidad de tropas eliminadas: 7319
+
+3550.txt
+Cantidad de tropas eliminadas: 9465
+
+3600.txt
+Cantidad de tropas eliminadas: 7123
+
+3650.txt
+Cantidad de tropas eliminadas: 7346
+
+3700.txt
+Cantidad de tropas eliminadas: 9416
+
+3750.txt
+Cantidad de tropas eliminadas: 9375
+
+3800.txt
+Cantidad de tropas eliminadas: 7795
+
+3850.txt
+Cantidad de tropas eliminadas: 10587
+
+3900.txt
+Cantidad de tropas eliminadas: 7919
+
+3950.txt
+Cantidad de tropas eliminadas: 7937
+
+4000.txt
+Cantidad de tropas eliminadas: 9332
+
+4050.txt
+Cantidad de tropas eliminadas: 8435
+
+4100.txt
+Cantidad de tropas eliminadas: 8507
+
+4150.txt
+Cantidad de tropas eliminadas: 9130
+
+4200.txt
+Cantidad de tropas eliminadas: 8640
+
+4250.txt
+Cantidad de tropas eliminadas: 10625
+
+4300.txt
+Cantidad de tropas eliminadas: 9044
+
+4350.txt
+Cantidad de tropas eliminadas: 11184
+
+4400.txt
+Cantidad de tropas eliminadas: 10057
+
+4450.txt
+Cantidad de tropas eliminadas: 9573
+
+4500.txt
+Cantidad de tropas eliminadas: 10125
+
+4550.txt
+Cantidad de tropas eliminadas: 9183
+
+4600.txt
+Cantidad de tropas eliminadas: 11500
+
+4650.txt
+Cantidad de tropas eliminadas: 9791
+
+4700.txt
+Cantidad de tropas eliminadas: 9600
+
+4750.txt
+Cantidad de tropas eliminadas: 11280
+
+4800.txt
+Cantidad de tropas eliminadas: 9855
+
+4850.txt
+Cantidad de tropas eliminadas: 10670
+
+4900.txt
+Cantidad de tropas eliminadas: 10082
+
+4950.txt
+Cantidad de tropas eliminadas: 11136
+
+5000.txt
+Cantidad de tropas eliminadas: 12500
+

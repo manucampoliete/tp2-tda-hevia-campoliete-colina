@@ -19,7 +19,7 @@ def main():
     print(RED + BOLD + "Solución: " + END + f"{solucion}")
     print(RED + BOLD + "Máximo: " + END + f"{maximo}")
     print(RED + BOLD + "Tiempo de ejecución: " + END + f"{(fin-inicio) * 1000} milisegundos")
-
+    
     correcta = verificacion(x_i, f, solucion, maximo)
     print(RED + BOLD + "La reconstrucción de la solución es: " + END + ("correcta :)" if correcta else "incorrecta :("))
 
